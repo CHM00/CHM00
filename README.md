@@ -1,10 +1,3 @@
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CHM00.CHM00" alt="Visitors" />
-  <img src="https://img.shields.io/github/followers/CHM00?style=social" alt="Followers" />
-</p>
-
-
 ### 📊 GitHub 统计 (Statistics)
 
 <p align="center">
